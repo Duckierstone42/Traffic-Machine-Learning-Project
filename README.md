@@ -1,5 +1,5 @@
 # Traffic-Machine-Learning-Project
-This repo contains a program for sorting German traffic signs using a CNN from the Keras API in Tensorflow. There are two folders of images, gtsrb, and gtsrb-small, one with 43 different traffic signs and the other with 3. The CNN structure consists of two Convolutional 2D layers each followed by Pooling laters, and then a couple of dense layers. Dropout regularization is used, with the adam optimizer. 
+This repo contains a program for sorting German traffic signs using a CNN from the Keras API in Tensorflow. There are two folders of images, gtsrb, and gtsrb-small, one with 43 different traffic signs and the other with 3. The CNN structure consists of two Convolutional 2D layers each followed by Pooling laters, and then a couple of dense layers. Dropout regularization is used, with the adam optimizer. The dataset used can be downloaded [here](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
 In order to run the program, run the following command in the command prompt:
 ```bash
